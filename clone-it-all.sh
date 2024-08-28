@@ -6,7 +6,7 @@ if [ -z "$1" ]; then
 fi
 
 USER_OR_ORG=$1
-OUTPUT_DIR=${2:-$(pwd)}
+OUTPUT_DIR=${2:-$USER_OR_ORG}
 
 mkdir -p "$OUTPUT_DIR"
 
