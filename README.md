@@ -21,7 +21,7 @@
     You can download the script directly from the repository or use `curl` to fetch it:
 
     ```bash
-    sudo curl -L -o /usr/local/bin/clone-it-all https://raw.githubusercontent.com/MohammadxAli/clone-it-all/main/clone-it-all.sh
+    sudo curl -L -o /usr/local/bin/clone-it-all https://raw.githubusercontent.com/mohammadxali/clone-it-all/main/clone-it-all.sh
     sudo chmod +x /usr/local/bin/clone-it-all
     ```
 
